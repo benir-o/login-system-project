@@ -1,32 +1,20 @@
 # Simple Login System
 
-A beginner-friendly login system project to demonstrate user authentication using [your chosen language].
+A login system project to demonstrate user authentication using java.
 
 ## Features
 - User registration with username and password
 - User login authentication
-- Password encryption for security
-- Simple and clean user interface (if applicable)
+- Welcome page
 
-## Technologies Used
-- [Programming Language] (e.g., Python, Java, C++)
-- [Database] (e.g., MySQL, SQLite, Firebase)
-- [Framework/Libraries] (if any)
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-login-system.git
-   cd simple-login-system
+   git clone https://github.com/benir-o/login-system-project.git
+   cd login-system-project
    ```
-2. Install dependencies:
-   ```bash
-   [Installation commands for dependencies]
-   ```
-3. Run the application:
-   ```bash
-   [Command to start the project]
-   ```
+
 
 ## Usage
 1. Run the program.
@@ -36,6 +24,7 @@ A beginner-friendly login system project to demonstrate user authentication usin
 
 ## Future Improvements
 - Implement password recovery/reset
+- Enforce password encryption
 - Add email verification
 - Improve UI/UX
 
