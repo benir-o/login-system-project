@@ -4,14 +4,15 @@ import java.util.HashMap;
 
 public class IDandPasswords {
     //Creating a hashmap
-    HashMap<String,String> logininfo=new HashMap<String,String>();
+    HashMap<String,String> loginInfo =new HashMap<String,String>();
     IDandPasswords(){
-        logininfo.put("Bro","pizza");
-        logininfo.put("Prometheus","PASSWORD");
-        logininfo.put("Benir","Astra1");
+        loginInfo.put("Bro","pizza");
+        loginInfo.put("Prometheus","PASSWORD");
+        loginInfo.put("Benir","Astra1");
+        loginInfo.put("Hellen","ilovetea");
     }
     protected HashMap getLoginInfo(){
-        return logininfo;
+        return loginInfo;
     }
 
 

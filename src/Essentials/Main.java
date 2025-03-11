@@ -5,6 +5,5 @@ public class Main {
         var IDandPasswords= new IDandPasswords();
         LoginPage loginPage= new LoginPage(IDandPasswords.getLoginInfo());
         IDandPasswords.getLoginInfo();
-
     }
 }
